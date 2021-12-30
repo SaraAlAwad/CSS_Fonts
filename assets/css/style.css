@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Open+Sans&family=Pushster&family=Roboto&family=Spline+Sans&display=swap');
+
+
+/* Google Fonts
+font-family: 'Licorice', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pushster', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Spline Sans', sans-serif;
+*/
+h1{
+    font-family: 'Licorice', cursive;
+    background-color: lightblue;
+    text-align: center;
+}
+section p{
+    font-family: 'Open Sans', sans-serif;
+}
+main p{
+    font-family: 'Pushster', cursive;
+}
+aside p{
+    font-family: 'Roboto', sans-serif;
+}
+nav p{
+    font-family: 'Licorice', cursive;
+}
+footer p{
+    font-family: 'Spline Sans', sans-serif;
+}
